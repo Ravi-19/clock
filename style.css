@@ -27,7 +27,9 @@ body{
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background-color: rgba(21, 12, 11, 0.397) ; 
+    /* background-color: rgba(21, 12, 11, 0.397) ;  */
+    background: url("./assets/Screenshot\ 2024-03-20\ 192448.png");
+    background-repeat: no-repeat;
     border: 2px solid rgba(255,255 ,255 , 0.25);
     z-index: 5;
     box-shadow: 10px , 10px ;
@@ -55,7 +57,7 @@ body{
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background-color: white;  
+    background-color: rgb(255, 252, 252);  
     z-index:2;
 
 } 
